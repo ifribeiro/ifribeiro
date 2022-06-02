@@ -4,14 +4,12 @@ I am a doctoral student at the Universidade Federal do Espírito Santo ([UFES](h
 
 ## Research interests
 
-My main interest areas are Urban Computing, Urban Mobility, Mobile and Opportunistic Networks, Data Science, and Machine Learning. You can find my resarch (mostly in Portuguese, for now) in my [Google Scholar](https://scholar.google.com/citations?user=6-8aD00AAAAJ&hl=en) profile.
+My main interest areas are Urban Computing, Urban Mobility, Mobile and Opportunistic Networks, Data Science, and Machine Learning. You can find my resarch (mostly in Portuguese, for now) in my [Google Scholar](https://scholar.google.com/citations?user=6-8aD00AAAAJ&hl=en) or [Research Gate](https://www.researchgate.net/profile/Iran-Ribeiro) profiles.
 
 
 ## Projects
 
-Currently, most of my code here is in the Python and is related to past or current research I'm workin on.
-
-but I have used other languages in personal and professional projects such as Java, Javascript, PHP
+Currently, most of my code here is in Python and is related to my past/current research. Some of them are just projects from a specific class I took. However, I have used other languages in personal and professional projects such as Java (mainly on my undergraduate degree), Javascript, and PHP. These last two I use
 
 Here's a summary of what I have done:
 
